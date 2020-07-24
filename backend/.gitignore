@@ -1,0 +1,9 @@
+.vs
+stdout.txt
+*.sln
+Source.TestSubmission
+bin
+obj
+*.db
+
+Testes/
